@@ -1090,12 +1090,12 @@ menu =
 `*${ucapanWaktu} @${senderr.split('@')[0]}*
 
 \`\`\`OPEN SEWABOT :\`\`\`
-➪ *1 Minggu :* _3.000_
-➪ *1 Bulan :* _5.000_
-➪ *Permanen :* _10.000_
+➪ *1 Minggu :* _20.000_
+➪ *1 Bulan :* _30.000_
+➪ *Permanen :* _40.000_
 
 ───────────────
-*_By RzLModz_* :
+*_By Ragil Bot_* :
 ───────────────
 \`\`\`OPEN MURIDBOT :\`\`\`
 ➪ *Murid biasa :* _20.000_
@@ -1105,8 +1105,8 @@ menu =
 ➪ *Script Store :* _Hubungi owner_
 ➪ *Script Biasa :* _Hubungi owner_
 Untuk yang mau beli script / sc
-Bisa request jika minat silakan hubungi RzLModz
-Nomor : https://wa.me/message/DXZST7RDO5AYD1`
+Bisa request jika minat silakan hubungi owner
+Nomor : https://wa.me/6283136890848`
 RzL.sendMessage(from, { contentText: `${menu}`, footerText: `*_${tanggal} - ${time} WIB_*`, buttons: [{ buttonId: `${prefix}payment`, buttonText: { displayText: 'ᴘᴀʏᴍᴇɴᴛ' }, type: 1 },{ buttonId: `${prefix}owner`, buttonText: { displayText: 'ᴏᴡɴᴇʀ' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [senderr]}}}, 'buttonsMessage')
 break
 case 'bayar':
@@ -1115,10 +1115,10 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 gambar = fs.readFileSync('./media/sewa.jpg')
 menunya = `*「 PAYMENT 」*
 
-• Gopay : _088274342094_
-• Dana : _088274342094_
-• Qris All pay : _Scan diatas ngab_
-• Pulsa : _083836899381_
+• Gopay : _081318910218_
+• Dana : _083136890848_
+• Qris All pay : _Scan nya eror langsung aja konfirmasi ke owner_
+• Pulsa : _083136890848_
 • _NOTE :kirim bukti TF ke owner !_`
 but = [
 { buttonId: `${prefix}menu`, buttonText: { displayText: 'ᴍᴇɴᴜ' }, type: 1 },
@@ -1130,7 +1130,7 @@ break
 //══════════[ FITUR DOWNLOAD ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 case 'ytmp3':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: fgi})
@@ -1192,7 +1192,7 @@ break
 //══════════[ FITUR ASUPAN ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 case 'asupan':
 case 'asupanloli':
@@ -1221,7 +1221,7 @@ break
 //══════════[ FITUR CECAN ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 case 'cecan':
 case 'cogan':
@@ -1251,7 +1251,7 @@ break
 //══════════[ RANDOM TEXT ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 case 'pantun':
 case 'puisi':
@@ -1299,7 +1299,7 @@ break
 //══════════[ RANDOM IMAGE ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 case 'ppcp':
 case 'ppcouple':
@@ -1497,7 +1497,7 @@ break
 //══════════[ FITUR MAKER ]══════════//
 /*Nyolong case ?
 kasih credit ajg / tambah in di tqtq
---> RzLGans*/
+--> Ragil Bot*/
 
 //----> 1 TEXT <----//
 
