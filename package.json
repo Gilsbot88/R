@@ -1,5 +1,5 @@
 {
-  "name": "V5",
+  "name": "Ragil Bot",
   "version": "1.0.0",
   "description": "None",
   "main": "main.js",
@@ -50,7 +50,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "DhaniGans",
+  "author": "Ragil Bot",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BOTZ-DHANI/Base-DhaniGans/issue"
